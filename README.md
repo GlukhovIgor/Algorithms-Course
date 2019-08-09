@@ -1,5 +1,5 @@
 # Algorithms-Course
-Solutions to the problems from openedu 'Algorithms and data structures' course 
+Solutions to the problems from openedu 'Algorithms and data structures' course (Алгоритмы и структуры данных)
 
 * [Сортировки, основанные на сравнении](week%202)
     * [Сортировка слиянием](week%202/week_2_task_1.cpp) - [Условие](week%202/w2t1.png)
